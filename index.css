@@ -1,0 +1,25 @@
+#status {
+    text-align: center;
+    width: 100%;
+    font: bold 1em Times New Roman;
+    color: #FFF;
+    padding: 0.5em;
+    font-size: x-large;
+}
+
+#info {
+    position: relative;
+    bottom: 50%;
+    font-family: 'Times New Roman';
+    font-size: x-large;
+    text-align: center;
+    padding: 2.0em;
+}
+
+.online {
+    background: green;
+}
+
+.offline {
+    background: red;
+}
